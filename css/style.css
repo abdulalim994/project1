@@ -1,0 +1,33 @@
+body{
+	background-color: #242424;
+	margin: 0;
+}
+div{
+
+color: #fff;
+width: 1000px;
+background: #1c1c1c;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+padding: 50px;
+}
+h1{
+
+margin: 0;
+font-size: 50px;
+text-transform: uppercase;
+color: seagreen;
+}
+p{
+margin: 0;
+font-size: 20px;
+line-height: 1.6;
+text-align: justify;
+
+}
+span{color: orange;
+text-transform: uppercase;}
+b{
+	font-size: 90px;
+}
